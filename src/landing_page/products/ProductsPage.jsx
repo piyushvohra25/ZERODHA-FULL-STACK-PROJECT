@@ -9,13 +9,11 @@ import Products from "./Products";
 function ProductPage () {
     return (  
         <>
-            <Navbar />
             <Hero />
             <LeftSection />
             <RightSection />
             <Products />
             <Universe />
-            <Footer />
         </>
     );
 }

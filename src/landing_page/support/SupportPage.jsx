@@ -6,10 +6,8 @@ import Hero from "./Hero";
 function SupportPage () {
     return (  
         <>
-            <Navbar />
             <Hero />
             <CreateTicket />
-            <Footer />
         </>
     );
 }
