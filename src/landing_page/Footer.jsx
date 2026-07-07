@@ -6,6 +6,12 @@ function Footer() {
                     <div className="col">
                         <img src="media/images/logo.svg" style={{ width: "50%" }} alt="logo" />
                         <p className="mt-3"> &copy; 2010 - 2026, Zerodha Broking Ltd. <br /> All rights reserved.</p>
+                        <div className="row mt-1" style={{display:"inline-block"}}>
+                            <a href="https://x.com/zerodha" className="fs-4 text-muted"><i class="fa-brands fa-x-twitter"></i></a>
+                            <a href="https://facebook.com/zerodha.social" className="fs-4 text-muted"><i class="fa-brands fa-square-facebook"></i></a>
+                            <a href="https://instagram.com/zerodhaonline/" className="fs-4 text-muted"><i class="fa-brands fa-instagram"></i></a>
+                            <a href="https://linkedin.com/company/zerodha" className="fs-4 text-muted"><i class="fa-brands fa-linkedin"></i></a>
+                        </div>
                     </div>
                     <div className="footerlinks col">
                         <p style={{fontSize:"20px"}}>Account</p>
