@@ -1,0 +1,42 @@
+body {
+  margin: 0;
+}
+
+code {
+  font-size: 15px;
+  line-height: 135%;
+  padding: 4px 8px;
+  background: var(--code-bg);
+}
+
+.nav-link {
+  margin-left: 40px;
+}
+
+.footerlinks a {
+  text-decoration: none;
+  color: darkslategray;
+}
+
+#supportTab {
+  background-color: #387ED1;
+  color: white;
+}
+
+#supportFlex {
+  display: flex;
+  justify-content: space-between;
+}
+
+#supportContainer input {
+  margin-top: 20px;
+  width: 75%;
+  padding: 15px 25px;
+  border-radius: 10px;
+  border: none;
+}
+
+#supportContainer a {
+  color: white;
+}
+
