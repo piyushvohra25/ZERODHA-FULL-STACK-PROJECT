@@ -17,3 +17,26 @@ code {
   text-decoration: none;
   color: darkslategray;
 }
+
+#supportTab {
+  background-color: #387ED1;
+  color: white;
+}
+
+#supportFlex {
+  display: flex;
+  justify-content: space-between;
+}
+
+#supportContainer input {
+  margin-top: 20px;
+  width: 75%;
+  padding: 15px 25px;
+  border-radius: 10px;
+  border: none;
+}
+
+#supportContainer a {
+  color: white;
+}
+
